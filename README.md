@@ -1,3 +1,5 @@
+<DOCTYPE html>
+<html>
 <head>
   <style>
 .navbar {
@@ -65,3 +67,4 @@
   <a href = "site that does not exixt"> s</a>
   </div>
 </head>
+</html>
